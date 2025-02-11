@@ -1,8 +1,10 @@
 ## Unsplash Images - React Fundamental Project 16
 
+<img width="1166" alt="Screenshot 2025-02-11 at 21 39 40" src="https://github.com/user-attachments/assets/b317edc1-5498-4ba7-931d-3d9c9f03a655" />
+
 This project is a React application that allows users to search for images using the Unsplash API. It includes features such as dark mode (stored in localstorage), search functionality, and image gallery display.
 
-**Online Live:**
+**Online Live:** https://unsplash-images-arnob.netlify.app/
 
 ### Setup
 
